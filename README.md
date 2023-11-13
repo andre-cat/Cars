@@ -1,2 +1,2 @@
 # Cars
-A Unity project of an obstacle race track with obstacles
+A Unity project of an obstacle race track
